@@ -2197,6 +2197,15 @@
     ],
     "lives": [
         {
+            "name": "洪宇的lPV6",
+            "type": 0,
+            "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/654850695/ipv6/refs/heads/main/IPTV.m3u",
+            "epg": "http://epg.51zmt.top:8000/e.xml",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+            "timeout": 5,
+            "playerType": 2
+        },
+        {
             "name": "ITV",
             "type": 0,
             "url": "https://9877.kstore.space/Live/ITV.txt",
